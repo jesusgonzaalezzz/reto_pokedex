@@ -3,8 +3,10 @@
     <pokemons>
         <pokemon numero="16">
             <nombre>pidgey</nombre>
-            <tipo>normal</tipo>
-            <tipo>volador</tipo>
+            <tipos>
+                <tipo>normal</tipo>
+                <tipo>volador</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/b/b7/Pidgey.png/revision/latest?cb=20080719192400</imagen>
             <pokemonAlqEvoluciona>pidgeotto</pokemonAlqEvoluciona>
             <movimientosNormales>
@@ -22,8 +24,10 @@
         </pokemon>
         <pokemon numero="17">
             <nombre>pidgeotto</nombre>
-            <tipo>normal</tipo>
-            <tipo>volador</tipo>
+            <tipos>
+                <tipo>normal</tipo>
+                <tipo>volador</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/5/57/Pidgeotto.png/revision/latest?cb=20141214195017</imagen>
             <pokemonDelqEvoluciona>pidgey</pokemonDelqEvoluciona>
             <pokemonAlqEvoluciona>pidgeot</pokemonAlqEvoluciona>
@@ -39,8 +43,10 @@
         </pokemon>
         <pokemon numero="18">
             <nombre>Pidgeot</nombre>
-            <tipo>normal</tipo>
-            <tipo>volador</tipo>
+            <tipos>
+                <tipo>normal</tipo>
+                <tipo>volador</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/a/a9/Pidgeot.png/revision/latest?cb=20141214190416</imagen>
             <pokemonDelqEvoluciona>pidgeotto</pokemonDelqEvoluciona>-
             <movimientosNormales>
@@ -58,7 +64,9 @@
         </pokemon>
         <pokemon numero="19">
             <nombre>rattata</nombre>
-            <tipo>normal</tipo>
+            <tipos>
+                <tipo>normal</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/c/c4/Rattata.png/revision/latest?cb=20080723091810</imagen>
             <pokemonAlqEvoluciona>raticate</pokemonAlqEvoluciona>
             <movimientosNormales>
@@ -75,7 +83,9 @@
         </pokemon>
         <pokemon numero="20">
             <nombre>raticate</nombre>
-            <tipo>normal</tipo>
+            <tipos>
+              <tipo>normal</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/d/d6/Raticate.png/revision/latest?cb=20080723091809</imagen>
             <pokemonDelqEvoluciona>rattata</pokemonDelqEvoluciona>
             <movimientosNormales>
@@ -92,8 +102,10 @@
         </pokemon>
         <pokemon numero="21">
             <nombre>spearow</nombre>
-            <tipo>normal</tipo>
-            <tipo>volador</tipo>
+            <tipos>
+                <tipo>normal</tipo>
+                <tipo>volador</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/a/a1/Spearow.png/revision/latest?cb=20080908155927</imagen>
             <pokemonAlqEvoluciona>fearow</pokemonAlqEvoluciona>
             <movimientosNormales>
@@ -109,8 +121,10 @@
         </pokemon>
         <pokemon numero="22">
             <nombre>fearow</nombre>
-            <tipo>normal</tipo>
-            <tipo>volador</tipo>
+            <tipos>
+                <tipo>normal</tipo>
+                <tipo>volador</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/4/41/Fearow.png/revision/latest?cb=20170617014432</imagen>
             <pokemonDelqEvoluciona>spearow</pokemonDelqEvoluciona>
             <movimientosNormales>
@@ -126,8 +140,10 @@
         </pokemon>
         <pokemon numero="23">
             <nombre>ekans</nombre>
-            <tipo>veneno</tipo>
-            <imagen>https://static.wikia.nocookie.net/espokemon/images/1/11/Ekans.png/revision/latest?cb=20170617012619</imagen>
+            <tipos>
+                <tipo>veneno</tipo>
+            </tipos>
+            <imagen>https:wikia.nocookie.net/espokemon/images/1/11/Ekans.png/revision/latest?cb=20170617012619</imagen>
             <pokemonAlqEvoluciona>arbok</pokemonAlqEvoluciona>
             <movimientosNormales>
                 <movimiento>Ácido</movimiento>
@@ -144,7 +160,9 @@
         </pokemon>
         <pokemon numero="24">
             <nombre>arbok</nombre>
-            <tipo>veneno</tipo>
+            <tipos>
+                <tipo>veneno</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/4/4d/Arbok.png/revision/latest?cb=20170615172348</imagen>
             <pokemonDelqEvoluciona>ekans</pokemonDelqEvoluciona>
             <movimientosNormales>
@@ -163,7 +181,9 @@
         </pokemon>
         <pokemon numero="25">
             <nombre>pikachu</nombre>
-            <tipo>eléctrico</tipo>
+            <tipos>
+                <tipo>eléctrico</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/7/77/Pikachu.png/revision/latest?cb=20150621181250</imagen>
             <pokemonAlqEvoluciona>raichu</pokemonAlqEvoluciona>
             <movimientosNormales>
@@ -186,7 +206,9 @@
         </pokemon>
         <pokemon numero="26">
             <nombre>raichu</nombre>
-            <tipo>eléctrico</tipo>
+            <tipos>
+                <tipo>eléctrico</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/3/34/Raichu.png/revision/latest?cb=20160815220038</imagen>
             <pokemonDelqEvoluciona>pikachu</pokemonDelqEvoluciona>
             <movimientosNormales>
@@ -206,7 +228,9 @@
         </pokemon>
         <pokemon numero="27">
             <nombre>sandshrew</nombre>
-            <tipo>tierra</tipo>
+            <tipos>
+                <tipo>tierra</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/d/df/Sandshrew.png/revision/latest?cb=20080909114740</imagen>
             <pokemonAlqEvoluciona>sandslash</pokemonAlqEvoluciona>
             <movimientosNormales>
@@ -224,7 +248,9 @@
         </pokemon>
         <pokemon numero="28">
             <nombre>sandslash</nombre>
-            <tipo>tierra</tipo>
+            <tipos>
+                <tipo>tierra</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/1/13/Sandslash.png/revision/latest?cb=20140809022452</imagen>
             <pokemonDelqEvoluciona>sandshrew</pokemonDelqEvoluciona>
             <movimientosNormales>
@@ -241,7 +267,9 @@
         </pokemon>
         <pokemon numero="29">
             <nombre>nidoran♀</nombre>
-            <tipo>veneno</tipo>
+            <tipos>
+                <tipo>veneno</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/c/c8/Nidoran%E2%99%80.png/revision/latest?cb=20080909113724</imagen>
             <pokemonAlqEvoluciona>nidorina</pokemonAlqEvoluciona>
             <movimientosNormales>
@@ -258,7 +286,9 @@
         </pokemon>
         <pokemon numero="30">
             <nombre>nidorina</nombre>
-            <tipo>veneno</tipo>
+            <tipos>
+                <tipo>veneno</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/3/31/Nidorina.png/revision/latest?cb=20080909113735</imagen>
             <pokemonDelqEvoluciona>nidoran♀</pokemonDelqEvoluciona>
             <pokemonAlqEvoluciona>nidoqueen</pokemonAlqEvoluciona>
@@ -276,8 +306,10 @@
         </pokemon>
         <pokemon numero="31">
             <nombre>nidoqueen</nombre>
-            <tipo>veneno</tipo>
-            <tipo>tierra</tipo>
+            <tipos>
+                <tipo>veneno</tipo>
+                <tipo>tierra</tipo>
+            </tipos>
             <imagen>https://static.wikia.nocookie.net/espokemon/images/4/43/Nidoqueen.png/revision/latest?cb=20220608121708</imagen>
             <pokemonDelqEvoluciona>nidorina</pokemonDelqEvoluciona>
             <movimientosNormales>
