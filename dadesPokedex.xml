@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokedex>
+    <pokemons>
+        <pokemon numero="16">
+            <nombre>pidgey</nombre>
+            <tipo>normal</tipo>
+            <tipo>volador</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/b/b7/Pidgey.png/revision/latest?cb=20080719192400</imagen>
+            <pokemonAlqEvoluciona>pidgeotto</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Ala de acero</movimiento>
+                <movimiento>Tajo aéreo</movimiento>
+                <movimiento>Ataque ala</movimiento>
+                <movimiento>Tornado</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Golpe aéreo</movimiento>
+                <movimiento>Pájaro osado</movimiento>
+                <movimiento>Vendaval</movimiento>
+                <movimiento>Aire afilado</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="17">
+            <nombre>pidgeotto</nombre>
+            <tipo>normal</tipo>
+            <tipo>volador</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/5/57/Pidgeotto.png/revision/latest?cb=20141214195017</imagen>
+            <pokemonDelqEvoluciona>pidgey</pokemonDelqEvoluciona>
+            <pokemonAlqEvoluciona>pidgeot</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Ala de acero</movimiento>
+                <movimiento>Ataque Ala</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Aire afilado</movimiento>
+                <movimiento>Golpe aéreo</movimiento>
+                <movimiento>Ciclón</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="18">
+            <nombre>Pidgeot</nombre>
+            <tipo>normal</tipo>
+            <tipo>volador</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/a/a9/Pidgeot.png/revision/latest?cb=20141214190416</imagen>
+            <pokemonDelqEvoluciona>pidgeotto</pokemonDelqEvoluciona>-
+            <movimientosNormales>
+                <movimiento>Ala de acero</movimiento>
+                <movimiento>Tajo aéreo</movimiento>
+                <movimiento>Ataque ala</movimiento>
+                <movimiento>Tornado</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Golpe aéreo</movimiento>
+                <movimiento>Pájaro osado</movimiento>
+                <movimiento>Vendaval</movimiento>
+                <movimiento>Aire afilado</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="19">
+            <nombre>rattata</nombre>
+            <tipo>normal</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/c/c4/Rattata.png/revision/latest?cb=20080723091810</imagen>
+            <pokemonAlqEvoluciona>raticate</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Placaje</movimiento>
+                <movimiento>Ataque rápido</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Golpe cuerpo</movimiento>
+                <movimiento>Excavar</movimiento>
+                <movimiento>Hipercolmillo</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="20">
+            <nombre>raticate</nombre>
+            <tipo>normal</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/d/d6/Raticate.png/revision/latest?cb=20080723091809</imagen>
+            <pokemonDelqEvoluciona>rattata</pokemonDelqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Ataque rápido</movimiento>
+                <movimiento>Mordisco</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Hiperrayo</movimiento>
+                <movimiento>Excavar</movimiento>
+                <movimiento>Hipercolmillo</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="21">
+            <nombre>spearow</nombre>
+            <tipo>normal</tipo>
+            <tipo>volador</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/a/a1/Spearow.png/revision/latest?cb=20080908155927</imagen>
+            <pokemonAlqEvoluciona>fearow</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Ataque rápido</movimiento>
+                <movimiento>Picotazo</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Ataque aéreo</movimiento>
+                <movimiento>Pico taladro</movimiento>
+                <movimiento>Golpe aéreo</movimiento>
+                <movimiento>Ciclón</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="22">
+            <nombre>fearow</nombre>
+            <tipo>normal</tipo>
+            <tipo>volador</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/4/41/Fearow.png/revision/latest?cb=20170617014432</imagen>
+            <pokemonDelqEvoluciona>spearow</pokemonDelqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Ala de acero</movimiento>
+                <movimiento>Picotazo</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Ataque aéreo</movimiento>
+                <movimiento>Golpe aéreo</movimiento>
+                <movimiento>Taladradora</movimiento>
+                <movimiento>Ciclón</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="23">
+            <nombre>ekans</nombre>
+            <tipo>veneno</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/1/11/Ekans.png/revision/latest?cb=20170617012619</imagen>
+            <pokemonAlqEvoluciona>arbok</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Ácido</movimiento>
+                <movimiento>Picotazo veneno</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Bomba lodo</movimiento>
+                <movimiento>Colmillo veneno</movimiento>
+                <movimiento>Constricción</movimiento>
+                <movimiento>Lanza mugre</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="24">
+            <nombre>arbok</nombre>
+            <tipo>veneno</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/4/4d/Arbok.png/revision/latest?cb=20170615172348</imagen>
+            <pokemonDelqEvoluciona>ekans</pokemonDelqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Ácido</movimiento>
+                <movimiento>Mordisco</movimiento>
+                <movimiento>Cola dragón</movimiento>     
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Lanza mugre</movimiento>
+                <movimiento>Onda tóxica</movimiento>
+                <movimiento>Pulso umbrío</movimiento>
+                <movimiento>Bomba ácida</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="25">
+            <nombre>pikachu</nombre>
+            <tipo>eléctrico</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/7/77/Pikachu.png/revision/latest?cb=20150621181250</imagen>
+            <pokemonAlqEvoluciona>raichu</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Ataque rápido</movimiento>
+                <movimiento>Impactrueno</movimiento>
+                <movimiento>Presente</movimiento>
+                <movimiento>Encanto</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Chispazo</movimiento>
+                <movimiento>Rayo</movimiento>
+                <movimiento>Voltio cruel</movimiento>
+                <movimiento>Surf</movimiento>
+                <movimiento>Trueno</movimiento>
+                <movimiento>Plancha voladora</movimiento>
+                <movimiento>Puño trueno</movimiento>
+                <movimiento>Carantoña</movimiento>
+                <movimiento>Vuelo</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="26">
+            <nombre>raichu</nombre>
+            <tipo>eléctrico</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/3/34/Raichu.png/revision/latest?cb=20160815220038</imagen>
+            <pokemonDelqEvoluciona>pikachu</pokemonDelqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Chispa</movimiento>
+                <movimiento>Voltiocambio</movimiento>
+                <movimiento>Impactrueno</movimiento>
+                <movimiento>Encanto</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Demolición</movimiento>
+                <movimiento>Puño trueno</movimiento>
+                <movimiento>Voltio cruel</movimiento>
+                <movimiento>Cabezazo</movimiento>
+                <movimiento>Trueno</movimiento>
+
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="27">
+            <nombre>sandshrew</nombre>
+            <tipo>tierra</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/d/df/Sandshrew.png/revision/latest?cb=20080909114740</imagen>
+            <pokemonAlqEvoluciona>sandslash</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Arañazo</movimiento>
+                <movimiento>Disparo lodo</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Avalancha</movimiento>
+                <movimiento>Bucle arena</movimiento>
+                <movimiento>Excavar</movimiento>
+                <movimiento>Tumba rocas</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="28">
+            <nombre>sandslash</nombre>
+            <tipo>tierra</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/1/13/Sandslash.png/revision/latest?cb=20140809022452</imagen>
+            <pokemonDelqEvoluciona>sandshrew</pokemonDelqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Disparo lodo</movimiento>
+                <movimiento>Garra metal</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Terremoto</movimiento>
+                <movimiento>Terratemblor</movimiento>
+                <movimiento>Tumba rocas</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="29">
+            <nombre>nidoran♀</nombre>
+            <tipo>veneno</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/c/c8/Nidoran%E2%99%80.png/revision/latest?cb=20080909113724</imagen>
+            <pokemonAlqEvoluciona>nidorina</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Mordisco</movimiento>
+                <movimiento>Picotazo veneno</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Golpe cuerpo</movimiento>
+                <movimiento>Bomba lodo</movimiento>
+                <movimiento>Colmillo veneno</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="30">
+            <nombre>nidorina</nombre>
+            <tipo>veneno</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/3/31/Nidorina.png/revision/latest?cb=20080909113735</imagen>
+            <pokemonDelqEvoluciona>nidoran♀</pokemonDelqEvoluciona>
+            <pokemonAlqEvoluciona>nidoqueen</pokemonAlqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Mordisco</movimiento>
+                <movimiento>Picotazo veneno</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Excavar</movimiento>
+                <movimiento>Colmillo veneno</movimiento>
+                <movimiento>Bomba lodo</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        <pokemon numero="31">
+            <nombre>nidoqueen</nombre>
+            <tipo>veneno</tipo>
+            <tipo>tierra</tipo>
+            <imagen>https://static.wikia.nocookie.net/espokemon/images/4/43/Nidoqueen.png/revision/latest?cb=20220608121708</imagen>
+            <pokemonDelqEvoluciona>nidorina</pokemonDelqEvoluciona>
+            <movimientosNormales>
+                <movimiento>Mordisco</movimiento>
+                <movimiento>Puya nociva</movimiento>
+            </movimientosNormales>
+            <movimientosEspeciales>
+                <movimiento>Terremoto</movimiento>
+                <movimiento>Onda tóxica</movimiento>
+                <movimiento>Roca afilada</movimiento>
+                <movimiento>Tierra viva</movimiento>
+                <movimiento>Retribución</movimiento>
+                <movimiento>Frustración</movimiento>
+            </movimientosEspeciales>
+        </pokemon>
+        
+    </pokemons>
+</pokedex>
